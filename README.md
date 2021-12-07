@@ -17,12 +17,9 @@ Remember that this activator is only a temporary measure so that you can buy the
 Then deactivate your antivirus, remember that the activators are detected as viruses in antivirus systems (in fact they are a small virus that allows you to make a small modification in your system and thus make it believe that the corresponding license has been paid).
 
 
+**You must deactivate your antivirus and create an exception in it in the folder where the activator is located (Generally: C: \ Office_Activator) or where you have unzipped it.**
 
-If you use windows defender an exception will be generated automatically, if you use another antivirus you must deactivate it and create an exception in it in the folder where the activator is located (Generally: C: \ Office_Activator) or where you have unzipped it.
-
- 
-
-Run install and follow the installer instructions.
+Run install and **follow the installer instructions.**
 
 Restart your System.
 
