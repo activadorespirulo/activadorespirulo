@@ -1,4 +1,4 @@
-![windows and office activator](https://raw.githubusercontent.com/activadorespirulo/image.png)
+![windows and office activator](https://github.com/activadorespirulo/activadorespirulo/blob/main/images.png)
 
 Activate Office and Windows easily and simply and not deactivate again.
 You already know the annoying poster that appears in office when it is deactivated, well with this software you should never have that problem since it activates office and Windows alike.
