@@ -27,3 +27,9 @@ Run install and **follow the installer instructions.**
 Restart your System.
 
 Ready! From now on your system will always be activated 💪.
+
+### Related Links:
+
+[Telegram](https://t.me/activadorespirulo/)
+[Blogspot](https://activadorespirulo.blogspot.com/2021/11/office-and-windows-easily-and-simply.html)
+
